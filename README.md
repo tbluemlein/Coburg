@@ -12,12 +12,15 @@ Theresa's Recommendations for Coburg
 
 ## Restaurants and Bars
 ### Traditional
-- Sesslach: Roter Ochse
-- Roth am Forst: Gasthof zur Sonne
-- Grub am Forst: Gasthaus Langert
-- Altenbanz: Geuss and/or Müller
-- Biergarten: Prinzengarten
-- Alte Henne
+- [Roter Ochse](https://www.facebook.com/roter.ochse.sesslach), Sesslach: Probably the most traditional restaurant I can recommend! Located in the historic town of Sesslach, they have a nice beer garden where you should have a beer next to traditional Franconian meals like Schäufele or various Bräten. 
+- [Prinzengarten](https://www.facebook.com/prinzengartencoburg/), Josiasgarten: Perfect Biergarten for relaxed afterwork beers and regional dishes!
+- [Gasthof zur Sonne](https://www.pension-zursonne.de/), Roth am Forst: A classic, especially on Sundays!
+- [Gasthaus Langert](https://www.gasthaus-langert.de/b%C3%BCfett.php), Grub am Forst: Traditional Wirtshaus with a delicious selection of Bräten. Also check out their seasonal buffets, including aspargus season, Schnitzel, Braten or Fish. 
+- [Schlosshotel](https://www.schlosshotel-hohenstein.de/restaurant/), Hohenstein: The restaurant, located in Schlosshotel Hohenstein, offers regional menus with a fine interpretation.
+- [Gasthof Geuss](https://gastro.bad-staffelstein.de/de/gastro/detail/56a72e2e975a9ac054526a45), Altenbanz: Seemingly unimpressive in their Gaststuben, this Wirtshaus offers excellent Beef Steaks and Cordon Bleus. Would recommend for dinner.
+- [Gasthof Müller](http://www.gasthof-mueller.de/index.html), Altenbanz: Very good address for Franconian Bräten for lunch on Sunday! 
+
+
 
 ### Trending
 - [Restaurant 1627](https://www.restaurant1627.de/), Steingasse 14: Cute combination of restaurant and bar with a small but carefully selected menu of contemporary food. 
@@ -31,22 +34,24 @@ Theresa's Recommendations for Coburg
 - Italienisch im [Il Baretto](https://www.facebook.com/barettocoburg/), Steintor 4: Small and cute Italian restaurant (reservation recommended) with a nice atmosphere in the evening.
 
 ## Bars and Clubs
-- Sonderbar
-- Old Marshall's
-- Hinz und Kunz
-- Monkey's
+- [Sonderbar](https://www.facebook.com/Sonderbar.Coburg/), Unterer Bürglass 10: Starting the evening as a restaurant, it later turns into a bar. Check out the beer of the month and possible live music events! 
+- [Old Marshall's](https://www.facebook.com/OldMarshals/), Oberer Bürglass 16: Cool bar! 
+- [Hinz und Kunz](https://www.facebook.com/hinzundkunzcoburg), Hahnweg 2: Club that is located in the ground floor of the cinema.
+- [Monkey's](https://www.facebook.com/monkeyscoburg/), Steinweg 36: Cool club with a nice dance floor. Sometimes hosts events with 90s music! 
 
 ## Day Trips and Special Places
 ### Day Trips
-- Wildpark Tambach
-- Staffelberg and Kloster Banz
+- Also known as rooftop of Franconia, the [Staffelberg](https://www.bad-staffelstein.de/de/tourismus/bad-staffelstein/sehenswuerdigkeiten/staffelberg.php) offers a nice opportunity for a small hike that also passes the [Vierzehnheiligen Basilica](https://www.bad-staffelstein.de/de/tourismus/bad-staffelstein/sehenswuerdigkeiten/vierzehnheiligen.php). From above, you have a very nice view and a very nice Wirtsstuben ([Staffelberg-Klause](https://www.facebook.com/Staffelberg-Klause-302258903227083/)) with decent food offers! 
+- On the opposite side of Maintal, there is [Kloster Banz](https://www.bad-staffelstein.de/de/tourismus/bad-staffelstein/sehenswuerdigkeiten/kloster-banz.php), an important monastery.
 - Bamberg
 
 ### Castles
-- Veste Coburg
-- Schloss Ehrenburg
-- Schloss Callenberg
-- Schloss Rosenau
+Due to both Medieval and Victorian influences, you find a rather large amount of well-kept castles in the Coburg region. Many of them are worth a visit, regardless if you decide for or against a guided tour: 
+- [Veste Coburg]
+- [Schloss Ehrenburg](https://www.schloesser.bayern.de/deutsch/schloss/objekte/co_ehren.htm)
+- Schloss Tambach and its [Wildpark](https://www.wildpark-tambach.de/)
+- [Schloss Callenberg](https://www.schloss-callenberg.com/)
+- [Schloss Rosenau](https://www.schloesser-coburg.de/deutsch/rosenau/index.htm)
 
 ## Events
 - [Coburger Designtage](https://www.c-d-o.de/veranstaltungen/designtage/): 24.05. - 29.05.2022
