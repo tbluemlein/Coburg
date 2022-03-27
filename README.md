@@ -3,9 +3,9 @@
 Theresa's Recommendations for Coburg
 
 ## Must Have Done
-- [] order a Coburger Bratwurschd mit Sempf on the Market Square
-- [] take the Bimmelbahn up to Veste Coburg and walk back downtown through Hofgarten
-- [] eat Coburger Klösse and Braten at one of the traditional restaurants (see list below)
+- [ ] order a Coburger Bratwurschd mit Sempf on the Market Square
+- [ ] take the Bimmelbahn up to Veste Coburg and walk back downtown through Hofgarten
+- [ ] eat Coburger Klösse and Braten at one of the traditional restaurants (see list below)
 
 ## Restaurants and Bars
 ### Traditional
@@ -42,5 +42,5 @@ Theresa's Recommendations for Coburg
 - Schloss Rosenau
 
 ## Events
-- [Schlossplatzfest](https://www.openairsommer.de/)
-
+- [Schlossplatzfest](https://www.schlossplatzfest-coburg.de/): 14.07. - 18.07.2022
+- [Guided Tours](https://veranstaltungen.coburg.de/details/ort/tourist-information/controller/Location/action/show.html)
