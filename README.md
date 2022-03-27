@@ -47,7 +47,7 @@ Theresa's Recommendations for Coburg
 
 ### Castles
 Due to both Medieval and Victorian influences, you find a rather large amount of well-kept castles in the Coburg region. Many of them are worth a visit, regardless if you decide for or against a guided tour: 
-- [Veste Coburg]
+- [Veste Coburg](https://www.kunstsammlungen-coburg.de/)
 - [Schloss Ehrenburg](https://www.schloesser.bayern.de/deutsch/schloss/objekte/co_ehren.htm)
 - Schloss Tambach and its [Wildpark](https://www.wildpark-tambach.de/)
 - [Schloss Callenberg](https://www.schloss-callenberg.com/)
