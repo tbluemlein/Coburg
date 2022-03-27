@@ -17,16 +17,18 @@ Theresa's Recommendations for Coburg
 - Grub am Forst: Gasthaus Langert
 - Altenbanz: Geuss and/or Müller
 - Biergarten: Prinzengarten
+- Alte Henne
 
-### Trendy
-- Coburg: 1627
-- Coburg: Hungry Highlander
-- Coburg: Café Feiler
-- Coburg: Bar Celona
-- Coburg: Dornheim
-- Burger im [Hans Kaschber](https://www.hanskaschber.de/coburg/)
-- Asiatisch, insbesondere Sushi, im [Michido](https://michido-restaurant.de/) am Albertsplatz
-- Italienisch im [Ristorante Dal Passatore](https://www.facebook.com/DalPassatore/) in der Steingasse
+### Trending
+- [Restaurant 1627](https://www.restaurant1627.de/), Steingasse 14: Cute combination of restaurant and bar with a small but carefully selected menu of contemporary food. 
+- Hungry Highlander, Steingasse 11: Authentic pub with a broad variety of local and international beers. The sticky finger burger is a classic.
+- [Café Feiler](https://www.cafe-feiler.de/), Theaterplatz: Family-owned bakery and café that offers breakfast, brunch, lunch and coffee. From the outside seating area, you have a nice view onto the Landestheater. Check out their weekly Wochenkarte for delicious lunch meals!
+- [Bar Celona](https://www.barcelona-coburg.de/), Ernstplatz: Decent Mediterranean restaurant that offers a large variety of Spanish tapas. On Tuesdays and Sundays, they have special tapas offers! 
+- [Restaurant Dornheim](http://www.dornheim-coburg.de/), Steingasse 24: Offering much local Hausmannskost, Dornheim often adds his own note or interpretation to rather traditional dishes. Worth a visit in their Biergarten for a dinner!
+- [Hans Kaschber](https://www.hanskaschber.de/coburg/), Theatergasse 5: Good selection of home-made burgers.
+- [Michido](https://michido-restaurant.de/), Albertsplatz: Asian restaurant to seat in and out as well as takeaway, well known for their Sushi. 
+- [Ristorante Dal Passatore](https://www.facebook.com/DalPassatore/), Steingasse 13: Very authentically Italian restaurant with Antipasti, Primi, Secondi and Dolce menus that offer seasonal meals. Good for lunch as well as dinner! 
+- Italienisch im [Il Baretto](https://www.facebook.com/barettocoburg/), Steintor 4: Small and cute Italian restaurant (reservation recommended) with a nice atmosphere in the evening.
 
 ## Bars and Clubs
 - Sonderbar
@@ -54,4 +56,5 @@ Theresa's Recommendations for Coburg
 
 
 ## Sources and Further Links
-- (https://www.coburgmarketing.de/)
+- https://www.coburgmarketing.de/
+- 
