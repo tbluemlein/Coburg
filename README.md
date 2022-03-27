@@ -14,19 +14,19 @@ Theresa's Recommendations for Coburg
 ### Traditional
 - [Roter Ochse](https://www.facebook.com/roter.ochse.sesslach), Sesslach: Probably the most traditional restaurant I can recommend! Located in the historic town of Sesslach, they have a nice beer garden where you should have a beer next to traditional Franconian meals like Schäufele or various Bräten. 
 - [Prinzengarten](https://www.facebook.com/prinzengartencoburg/), Josiasgarten: Perfect Biergarten for relaxed afterwork beers and regional dishes!
+- [Schäferstuben](https://schaeferei-ahorn.de/de/besuch/gastronomie), Ahorn: Good for traditonal Brotzeit with a nice beergarden in an ancient estate!
 - [Gasthof zur Sonne](https://www.pension-zursonne.de/), Roth am Forst: A classic, especially on Sundays!
 - [Gasthaus Langert](https://www.gasthaus-langert.de/b%C3%BCfett.php), Grub am Forst: Traditional Wirtshaus with a delicious selection of Bräten. Also check out their seasonal buffets, including aspargus season, Schnitzel, Braten or Fish. 
 - [Schlosshotel](https://www.schlosshotel-hohenstein.de/restaurant/), Hohenstein: The restaurant, located in Schlosshotel Hohenstein, offers regional menus with a fine interpretation.
 - [Gasthof Geuss](https://gastro.bad-staffelstein.de/de/gastro/detail/56a72e2e975a9ac054526a45), Altenbanz: Seemingly unimpressive in their Gaststuben, this Wirtshaus offers excellent Beef Steaks and Cordon Bleus. Would recommend for dinner.
 - [Gasthof Müller](http://www.gasthof-mueller.de/index.html), Altenbanz: Very good address for Franconian Bräten for lunch on Sunday! 
 
-
-
 ### Trending
 - [Restaurant 1627](https://www.restaurant1627.de/), Steingasse 14: Cute combination of restaurant and bar with a small but carefully selected menu of contemporary food. 
 - Hungry Highlander, Steingasse 11: Authentic pub with a broad variety of local and international beers. The sticky finger burger is a classic.
 - [Café Feiler](https://www.cafe-feiler.de/), Theaterplatz: Family-owned bakery and café that offers breakfast, brunch, lunch and coffee. From the outside seating area, you have a nice view onto the Landestheater. Check out their weekly Wochenkarte for delicious lunch meals!
 - [Bar Celona](https://www.barcelona-coburg.de/), Ernstplatz: Decent Mediterranean restaurant that offers a large variety of Spanish tapas. On Tuesdays and Sundays, they have special tapas offers! 
+- [Goldenes Kreuz](https://www.goldenes-kreuz-coburg.de/speisekarte), Herrengasse 1: Traditional local food with a small beer garden near the market square.
 - [Restaurant Dornheim](http://www.dornheim-coburg.de/), Steingasse 24: Offering much local Hausmannskost, Dornheim often adds his own note or interpretation to rather traditional dishes. Worth a visit in their Biergarten for a dinner!
 - [Hans Kaschber](https://www.hanskaschber.de/coburg/), Theatergasse 5: Good selection of home-made burgers.
 - [Michido](https://michido-restaurant.de/), Albertsplatz: Asian restaurant to seat in and out as well as takeaway, well known for their Sushi. 
@@ -62,4 +62,4 @@ Due to both Medieval and Victorian influences, you find a rather large amount of
 
 ## Sources and Further Links
 - https://www.coburgmarketing.de/
-- 
+- [Glücksorte in und um Coburg: Fahr hin und werd glücklich] (2022): Schwarz, Lisa.
